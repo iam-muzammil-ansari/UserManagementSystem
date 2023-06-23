@@ -68,4 +68,4 @@ Contributions to this User Management System project are welcome. If you find an
 
 ## License
 
-This project is not (licensed)[licensed].
+This project is not licensed.
