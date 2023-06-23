@@ -38,7 +38,6 @@ The project follows the MVC (Model-View-Controller) architecture and consists of
 The project is built with the following Spring dependencies:
 
 - `spring-boot-starter-web`: Starter for building web applications using Spring MVC.
-- `spring-boot-starter-validation`: Starter for using Java Bean Validation with Hibernate Validator.
 - `lombok`: Java library for reducing boilerplate code.
 
 ## Getting Started
