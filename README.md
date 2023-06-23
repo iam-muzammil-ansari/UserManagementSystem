@@ -68,5 +68,4 @@ Contributions to this User Management System project are welcome. If you find an
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+This project is not (licensed)[licensed].
